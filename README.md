@@ -18,6 +18,7 @@ VAE was able to produce more general images such as different rotation of number
 To generate additional images of 6, run the following code
 
 `cd vae`
+
 `python main.py`
 
 This will generate a data file named `vae_samples.npy` which contains additional images of digit 6.
